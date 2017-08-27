@@ -1,5 +1,6 @@
 numero = int(input('informe um numero inteiro: '))
 
+print('-' * 20)
 print('{} x 0 = {}.'.format(numero, numero * 0))
 print('{} x 1 = {}.'.format(numero, numero * 1))
 print('{} x 2 = {}.'.format(numero, numero * 2))
@@ -10,4 +11,4 @@ print('{} x 6 = {}.'.format(numero, numero * 6))
 print('{} x 7 = {}.'.format(numero, numero * 7))
 print('{} x 8 = {}.'.format(numero, numero * 8))
 print('{} x 9 = {}.'.format(numero, numero * 9))
-
+print('-' * 20)
